@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/alumnirpl12018/static/css/main.620c9725.chunk.css",
+    "main.js": "/alumnirpl12018/static/js/main.fb27c3a4.chunk.js",
+    "main.js.map": "/alumnirpl12018/static/js/main.fb27c3a4.chunk.js.map",
+    "runtime-main.js": "/alumnirpl12018/static/js/runtime-main.e959ca6b.js",
+    "runtime-main.js.map": "/alumnirpl12018/static/js/runtime-main.e959ca6b.js.map",
+    "static/css/2.0a27bafc.chunk.css": "/alumnirpl12018/static/css/2.0a27bafc.chunk.css",
+    "static/js/2.1ecff77e.chunk.js": "/alumnirpl12018/static/js/2.1ecff77e.chunk.js",
+    "static/js/2.1ecff77e.chunk.js.map": "/alumnirpl12018/static/js/2.1ecff77e.chunk.js.map",
+    "static/js/3.156593ad.chunk.js": "/alumnirpl12018/static/js/3.156593ad.chunk.js",
+    "static/js/3.156593ad.chunk.js.map": "/alumnirpl12018/static/js/3.156593ad.chunk.js.map",
+    "index.html": "/alumnirpl12018/index.html",
+    "static/css/2.0a27bafc.chunk.css.map": "/alumnirpl12018/static/css/2.0a27bafc.chunk.css.map",
+    "static/css/main.620c9725.chunk.css.map": "/alumnirpl12018/static/css/main.620c9725.chunk.css.map",
+    "static/js/2.1ecff77e.chunk.js.LICENSE.txt": "/alumnirpl12018/static/js/2.1ecff77e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e959ca6b.js",
+    "static/css/2.0a27bafc.chunk.css",
+    "static/js/2.1ecff77e.chunk.js",
+    "static/css/main.620c9725.chunk.css",
+    "static/js/main.fb27c3a4.chunk.js"
+  ]
+}
